@@ -1,0 +1,7 @@
+
+caption, thead, table, th, td {
+ border: 1px solid #000000;
+ border-collapse: colapse;
+ background-color: greenyellow;
+
+}
