@@ -1,7 +1,41 @@
+tr td {
+    border: 2px solid #219b66;
+    padding: 6px 10px 6px 10px;
+    align-content: center;
+    font-weight: 1000
+;
+}
 
-caption, thead, table, th, td {
- border: 1px solid #000000;
- border-collapse: colapse;
- background-color: greenyellow;
+.feriado {
+
+    background-color: #217953;
+}
+
+
+table {
+  
+    border: #13613f solid 2px;
+}
+
+.legenda {
+
+    text-align: center;
+
+}
+
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mes {
+
+    align-content: center;
+}
+
+.uni {
+
+    width: 100px;
+    height: 100px;
 
 }
