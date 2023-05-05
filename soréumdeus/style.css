@@ -11,10 +11,21 @@ tr td {
     background-color: #217953;
 }
 
+th {
+
+border: 2px solid #217953;
+background-color: #a1d361;
+font-weight: 500;
+align-content: center;
+}
+
+
 
 table {
-  
-    border: #13613f solid 2px;
+    display: block;
+    margin-top: 6px;
+    border: #13613f solid 1px;
+    
 }
 
 .legenda {
@@ -29,14 +40,17 @@ body {
 }
 
 p {
-
+    margin: 5px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 700;
 }
 
 .mes {
-
-    align-content: center;
+    width: 50%;
+    display: flex;
+    margin-left: 25%;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .uni {
@@ -48,7 +62,7 @@ p {
 
 .fim {
 
-background-color: #a9c460;
+background-color: #f6ff7b; 
 
 }
 
