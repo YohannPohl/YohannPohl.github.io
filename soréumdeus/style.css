@@ -2,12 +2,12 @@ tr td {
     border: 2px solid #219b66;
     padding: 6px 10px 6px 10px;
     align-content: center;
-    font-weight: 1000
-;
+    font-weight: 500;
+    
 }
 
 .feriado {
-
+    font-weight: 900;
     background-color: #217953;
 }
 
@@ -25,7 +25,13 @@ table {
 
 body {
     margin: 0;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+p {
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
 }
 
 .mes {
@@ -37,5 +43,28 @@ body {
 
     width: 100px;
     height: 100px;
+
+}
+
+.fim {
+
+background-color: #a9c460;
+
+}
+
+.r {
+
+    background-color: #ffe59d;
+}
+
+.p {
+
+    background-color: #ffb2a4;
+
+}
+
+.i {
+
+    background-color: #cef388;
 
 }
